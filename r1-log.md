@@ -20,6 +20,7 @@ The log of my #100DaysOfCode challenge. Started on August 2nd, 2020.
 ## Log
 
 ### R1D1 
-
+Worked on the readability of my blog. Mostly this involved tweaking some CSS rules.
+I really wanted the date for the blog posts to show up as "X years X months X days ago" instead of just the raw timestamp from the DB. I played around with doing this in plain JS but ultimately decided to use Moment.js and its *duration* object.
 
 ### R1D2
