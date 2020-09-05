@@ -4,6 +4,7 @@ The log of my #100DaysOfCode challenge. Started on August 2nd, 2020.
 
 ## Goals
 - Learn CSS Grid
+- Practice Responsive CSS
 - Get comfortable using Promises
 - Get comfortable with Async/Await
 - Actually understand how to use 'this' and build classes
@@ -11,6 +12,7 @@ The log of my #100DaysOfCode challenge. Started on August 2nd, 2020.
 
 ## Planned projects
 - Refactor my personal site to use CSS Grid (probably in addition to Flexbox)
+- Make personal site Mobile friendly
 - Make the blog on my personal site actually readable  :white_check_mark:
 - Finish the prorated cost calculator app I started so, so long ago...
 - Build a CLI to manage my Digital Ocean firewall settings (to start)
