@@ -33,4 +33,7 @@ It's amazing what fresh eyes see. The error yesterday was being thrown because I
 Worked on Prorated Cost calculator. Fixed an issue where the start date was not getting populated because JS Dates are not zero filled but the Input elements "value" property required it. Started converting to CSS grid to try and control the layout better.
 
 ### R1D4
-Finished converting the Prorated Cost calculator to CSS Grid. Integrated the app into my portfolio site so it can be used/demoed. A number of style rules had to be modified or removed due to conflicting CSS rules. I wasn't too surprised because I started the calculator a long time before I had even decided to build a portfolio site. Maybe I should set up a Repo Template based off the portfolio site for projects where I want the code base publicly viewable... :thinking:
+Finished converting the Prorated Cost calculator to CSS Grid. Integrated the app into my portfolio site so it can be used/demoed. A number of style rules had to be modified or removed due to conflicting CSS rules. I wasn't too surprised because I started the calculator a long time before I had even decided to build a portfolio site. Maybe I should set up a repo template based off the portfolio site for projects where I want the code base publicly viewable... :thinking:
+
+### R1D5
+Spent some time today finishing up a CSS Grid course on Pluralsight and reading up on Grid. Started the refactor process on my portfolio site. So far I really like Grid. More refactoring tomorrow!
