@@ -37,3 +37,6 @@ Finished converting the Prorated Cost calculator to CSS Grid. Integrated the app
 
 ### R1D5
 Spent some time today finishing up a CSS Grid course on Pluralsight and reading up on Grid. Started the refactor process on my portfolio site. So far I really like Grid. More refactoring tomorrow!
+
+### R1D6
+More CSS Grid refactoring. The home/about page is done, and I decided to combine the "contact" page into the about page. I'm not totally happy with the color scheme, but I'll come back to it sometime after I refactor the remaining pages to Grid.
