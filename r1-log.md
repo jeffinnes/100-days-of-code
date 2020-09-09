@@ -17,6 +17,7 @@ The log of my #100DaysOfCode challenge. Started on August 2nd, 2020.
 - Finish the prorated cost calculator app I started so, so long ago...
 - Build a CLI to manage my Digital Ocean firewall settings (to start)
 - Participate in [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
+- Build something in [Rockstar](https://codewithrockstar.com/)
 - *I'll add more projects as I think of them. I've been using the creation of this list to procrastinate starting the challenge...no more!*
 
 ## Log
@@ -40,3 +41,6 @@ Spent some time today finishing up a CSS Grid course on Pluralsight and reading 
 
 ### R1D6
 More CSS Grid refactoring. The home/about page is done, and I decided to combine the "contact" page into the about page. I'm not totally happy with the color scheme, but I'll come back to it sometime after I refactor the remaining pages to Grid.
+
+### R1D7
+One week down! I got distracted from the CSS Grid refactor with replacing as many "divs" as I could with more semantic tags. I managed to get the projects page refactored even though I went down the rabbit hole of semantic HTML.
