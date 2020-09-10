@@ -11,7 +11,7 @@ The log of my #100DaysOfCode challenge. Started on August 2nd, 2020.
 - Get more comfortable using APIs
 
 ## Planned projects
-- Refactor my personal site to use CSS Grid (probably in addition to Flexbox)
+- Refactor my personal site to use CSS Grid (probably in addition to Flexbox) :white_check_mark:
 - Make personal site Mobile friendly
 - Make the blog on my personal site actually readable  :white_check_mark:
 - Finish the prorated cost calculator app I started so, so long ago...
@@ -44,3 +44,6 @@ More CSS Grid refactoring. The home/about page is done, and I decided to combine
 
 ### R1D7
 One week down! I got distracted from the CSS Grid refactor with replacing as many "divs" as I could with more semantic tags. I managed to get the projects page refactored even though I went down the rabbit hole of semantic HTML.
+
+### R1D8
+Wrapped up the CSS Grid rework of my portfolio site. I also ended up combining some content that was previously on separate pages. Next up is making the whole site Mobile friendly because right now it is basically unusable on a phone!
