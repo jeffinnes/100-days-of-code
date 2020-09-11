@@ -47,3 +47,6 @@ One week down! I got distracted from the CSS Grid refactor with replacing as man
 
 ### R1D8
 Wrapped up the CSS Grid rework of my portfolio site. I also ended up combining some content that was previously on separate pages. Next up is making the whole site Mobile friendly because right now it is basically unusable on a phone!
+
+### R1D9
+Little bit of a rough start making the portfolio site mobile friendly. Everything I build for work is used on screens 1000px & up, haven't had much chance to flex this muscle; I'm definitely feeling a bit rusty. On top of that, Chrome's dev tool screen simulator wasn't triggering the media selectors and it took me a bit to figure out that my code wasn't the issue. Yet another reminder of how much it sucks that Mozilla axed the entire FireFox dev tools team.
