@@ -50,3 +50,6 @@ Wrapped up the CSS Grid rework of my portfolio site. I also ended up combining s
 
 ### R1D9
 Little bit of a rough start making the portfolio site mobile friendly. Everything I build for work is used on screens 1000px & up, haven't had much chance to flex this muscle; I'm definitely feeling a bit rusty. On top of that, Chrome's dev tool screen simulator wasn't triggering the media selectors and it took me a bit to figure out that my code wasn't the issue. Yet another reminder of how much it sucks that Mozilla axed the entire FireFox dev tools team.
+
+### R1D10
+Fiddle fiddle fiddle. That's the name of the responsive CSS game. I got really close tonight, just one last element is being difficult. I suspect it will require a small adjustment to the HTML so I can use grid or flex to controll the wrapping behavior, but I'll take a look tomorrow with fresh eyes.
