@@ -12,9 +12,9 @@ The log of my #100DaysOfCode challenge. Started on August 2nd, 2020.
 
 ## Planned projects
 - Refactor my personal site to use CSS Grid (probably in addition to Flexbox) :white_check_mark:
-- Make personal site Mobile friendly
+- Make personal site Mobile friendly :white_check_mark:
 - Make the blog on my personal site actually readable  :white_check_mark:
-- Finish the prorated cost calculator app I started so, so long ago...
+- Finish the prorated cost calculator app I started so, so long ago... :white_check_mark:
 - Build a CLI to manage my Digital Ocean firewall settings (to start)
 - Participate in [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
 - Build something in [Rockstar](https://codewithrockstar.com/)
@@ -53,3 +53,6 @@ Little bit of a rough start making the portfolio site mobile friendly. Everythin
 
 ### R1D10
 Fiddle fiddle fiddle. That's the name of the responsive CSS game. I got really close tonight, just one last element is being difficult. I suspect it will require a small adjustment to the HTML so I can use grid or flex to controll the wrapping behavior, but I'll take a look tomorrow with fresh eyes.
+
+### R1D11
+Finally got all the mobile styles looking how I wanted. Pushed code to production... and nothing. It was all working in the browser simulation, but on mobile nothing changed. After some research, I found out that I needed to include a "Viewport" meta tag in the Head of my HTML file. I must have learned about that at somepoint, but I sure didn't remember it now. Anywho, after adding "<meta name="viewport" content="width=device-width, initial-scale=1">" to the Head, everything is happy on mobile.
