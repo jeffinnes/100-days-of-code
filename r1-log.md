@@ -56,3 +56,6 @@ Fiddle fiddle fiddle. That's the name of the responsive CSS game. I got really c
 
 ### R1D11
 Finally got all the mobile styles looking how I wanted. Pushed code to production... and nothing. It was all working in the browser simulation, but on mobile nothing changed. After some research, I found out that I needed to include a "Viewport" meta tag in the Head of my HTML file. I must have learned about that at somepoint, but I sure didn't remember it now. Anywho, after adding `<meta name="viewport" content="width=device-width, initial-scale=1">` to the Head, everything is happy on mobile.
+
+### R1D12
+I decided the next project I want to tackle is building a CLI to manage the firewall on my Digital Ocean account. I ended spending most of my time reading about ways to build a CLI but I did get the repo and basic files in place. I'll start actually coding it tomorrow.
