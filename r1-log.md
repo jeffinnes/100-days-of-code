@@ -60,3 +60,6 @@ Finally got all the mobile styles looking how I wanted. Pushed code to productio
 
 ### R1D12
 I decided the next project I want to tackle is building a CLI to manage the firewall on my Digital Ocean account. I ended spending most of my time reading about ways to build a CLI but I did get the repo and basic files in place. I'll start actually coding it tomorrow.
+
+### R1D13
+I lied. I didn't really start coding the CLI project today. I had to do some after hours server updates for work and was just too tired to trust any code I write. Instead I spent time checking out some of the packages various tool recommended. Commander.js and Inquirer.js look like they will provide the functionality I'm looking for but I'm not quite sure what to do about cred storage yet.
