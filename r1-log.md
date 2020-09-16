@@ -62,4 +62,7 @@ Finally got all the mobile styles looking how I wanted. Pushed code to productio
 I decided the next project I want to tackle is building a CLI to manage the firewall on my Digital Ocean account. I ended spending most of my time reading about ways to build a CLI but I did get the repo and basic files in place. I'll start actually coding it tomorrow.
 
 ### R1D13
-I lied. I didn't really start coding the CLI project today. I had to do some after hours server updates for work and was just too tired to trust any code I write. Instead I spent time checking out some of the packages various tool recommended. Commander.js and Inquirer.js look like they will provide the functionality I'm looking for but I'm not quite sure what to do about cred storage yet.
+I lied. I didn't really start coding the CLI project today. I had to do some after hours server updates for work and was just too tired to trust any code I write. Instead I spent time checking out some of the packages various tools recommended. Commander.js and Inquirer.js look like they will provide the functionality I'm looking for but I'm not quite sure what to do about cred storage yet.
+
+### R1D14
+Two weeks down! Feeling good about it for sure. Made some progress on the Digital Ocean CLI project. Commander.js is starting to make more sense, it just took staring at the docs long enough to realized that the option flags automagically create the property with a matching camel-cased name. Now it can read, store, or delete the API token.
