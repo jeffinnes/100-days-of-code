@@ -66,3 +66,6 @@ I lied. I didn't really start coding the CLI project today. I had to do some aft
 
 ### R1D14
 Two weeks down! Feeling good about it for sure. Made some progress on the Digital Ocean CLI project. Commander.js is starting to make more sense, it just took staring at the docs long enough to realized that the option flags automagically create the property with a matching camel-cased name. Now it can read, store, or delete the API token.
+
+### R1D15
+Got sidetracked from the CLI project. The prorate calculator was getting lonely on my projects page. Started porting a dog counter project I made to experiment with Electron a while back. As of writing this, I don't really understand the process to build Electron into an installer. I had used Electron-Forge, but then they did a major version change and I didn't understand how to use it...
