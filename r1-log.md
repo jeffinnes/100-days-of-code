@@ -70,3 +70,6 @@ Two weeks down! Feeling good about it for sure. Made some progress on the Digita
 
 ### R1D15
 Got sidetracked from the CLI project. The prorate calculator was getting lonely on my projects page. Started porting a dog counter project I made to experiment with Electron a while back. As of writing this, I don't really understand the process to build Electron into an installer. I had used Electron-Forge, but then they did a major version change and I didn't understand how to use it...
+
+### R1D16
+Finished porting the dog counter project and updating the styling to be responsive. Something that has been frustrating is that mobile views were zooming in on input fields but I didn't want that. Today I learned that if the input field's font-size is smaller that 16px most phones will zoom in. Easy enough to fix. I also spent some time reading the Digital Ocean API docs and made a few test calls with Postman.
