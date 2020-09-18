@@ -16,7 +16,8 @@ The log of my #100DaysOfCode challenge. Started on August 2nd, 2020.
 - Make the blog on my personal site actually readable  :white_check_mark:
 - Finish the prorated cost calculator app I started so, so long ago... :white_check_mark:
 - Build a CLI to manage my Digital Ocean firewall settings (to start)
-- Build super secret application (not ready to reveal this idea yet)
+- Crowdsourced advice rating app
+- Build super secret project (not ready to reveal this idea yet)
 - Participate in [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
 - Build something in [Rockstar](https://codewithrockstar.com/)
 - *I'll add more projects as I think of them. I've been using the creation of this list to procrastinate starting the challenge...no more!*
