@@ -73,3 +73,6 @@ Got sidetracked from the CLI project. The prorate calculator was getting lonely 
 
 ### R1D16
 Finished porting the dog counter project and updating the styling to be responsive. Something that has been frustrating is that mobile views were zooming in on input fields but I didn't want that. Today I learned that if the input field's font-size is smaller that 16px most phones will zoom in. Easy enough to fix. I also spent some time reading the Digital Ocean API docs and made a few test calls with Postman.
+
+### R1D17
+Worked on the CLI some more. Tonight I got the commands to pull a list of firewalls and displaying them working. I feel like I'm really starting to get Commander and Inquirer. 
