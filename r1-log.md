@@ -77,5 +77,5 @@ Finished porting the dog counter project and updating the styling to be responsi
 ### R1D17
 Worked on the CLI some more. Tonight I got the commands to pull a list of firewalls and displaying them working. I feel like I'm really starting to get Commander and Inquirer. 
 
-### R1D17
+### R1D18
 More CLI work. I spent a bunch of time trying to implement a recursive function call to reprompt the previous question in situations where the user only requested a display of info. In the process I overly complicated things by trying to turn everything into an async function. (I guess I'm just really excited to finally starting to feel like I get promises and async/await. Anyway, I ended up abandoning that line of thought because it was preventing me from getting any actual functionality done. After switching gears I finished the logic to select a firewall and nicely display it's info.
