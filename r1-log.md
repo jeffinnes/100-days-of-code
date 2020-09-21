@@ -79,3 +79,6 @@ Worked on the CLI some more. Tonight I got the commands to pull a list of firewa
 
 ### R1D18
 More CLI work. I spent a bunch of time trying to implement a recursive function call to reprompt the previous question in situations where the user only requested a display of info. In the process I overly complicated things by trying to turn everything into an async function. (I guess I'm just really excited to finally starting to feel like I get promises and async/await. Anyway, I ended up abandoning that line of thought because it was preventing me from getting any actual functionality done. After switching gears I finished the logic to select a firewall and nicely display it's info.
+
+### R1D19
+Still working on the CLI tool. Almost done implementing the logic to add new firewall rules, but there is something wrong in the firewall defining object I'm trying to send. After I hammer out that issue, I'll be able to move on to updating an existing rule and removing a rule.
