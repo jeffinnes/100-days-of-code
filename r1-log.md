@@ -82,3 +82,7 @@ More CLI work. I spent a bunch of time trying to implement a recursive function 
 
 ### R1D19
 Still working on the CLI tool. Almost done implementing the logic to add new firewall rules, but there is something wrong in the firewall defining object I'm trying to send. After I hammer out that issue, I'll be able to move on to updating an existing rule and removing a rule.
+
+### R1D20
+It turns out the issue from yesterday was that the API's validator was unhappy that I was trying to pass a non-positive port number... Except I wasn't. What I was doing is sending back the firewalls outbound rules as I had received them. One of those rules was for ICMP and did not have a port number set, the other two were set to allow ALL. In both of those instances, what you get from the API is a port number of "0" which is not techinically positive. Thankfully, I came across this question posted to the DO community https://www.digitalocean.com/community/questions/api-error-you-must-specify-a-positive-value-for-ports
+I implemented some data cleaning and the "add rule" option is now working!
