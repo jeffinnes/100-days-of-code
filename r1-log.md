@@ -86,3 +86,6 @@ Still working on the CLI tool. Almost done implementing the logic to add new fir
 ### R1D20
 It turns out the issue from yesterday was that the API's validator was unhappy that I was trying to pass a non-positive port number... Except I wasn't. What I was doing is sending back the firewalls outbound rules as I had received them. One of those rules was for ICMP and did not have a port number set, the other two were set to allow ALL. In both of those instances, what you get from the API is a port number of "0" which is not techinically positive. Thankfully, I came across this question posted to the DO community https://www.digitalocean.com/community/questions/api-error-you-must-specify-a-positive-value-for-ports
 I implemented some data cleaning and the "add rule" option is now working!
+
+### R1D21
+Between the little one teething and some after-hours server maintenance, I didn't get as much done tonight as I hoped. Still, I snuck in some work on building the CLI management tool.
