@@ -89,3 +89,7 @@ I implemented some data cleaning and the "add rule" option is now working!
 
 ### R1D21
 Between the little one teething and some after-hours server maintenance, I didn't get as much done tonight as I hoped. Still, I snuck in some work on building the CLI management tool.
+
+### R1D22
+Turns out the little one is also suffering his first fever! Still managed to get in some code time and wrap up the initial functionality for my Digital Ocean firewall management CLI. Now some code clean up is in order... But first! (or maybe during) I'm going to play around with Chalk to see if I can work on the CLI's readability. 
+While I've been working on this and for the last 9 or so months, I've been thinking about picking up a front-end framework. I've been reading about Vue lately, and I think it sounds really cool, I'm just not sure how to make the decision on which one to put my effort into...
