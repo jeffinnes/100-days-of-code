@@ -93,3 +93,7 @@ Between the little one teething and some after-hours server maintenance, I didn'
 ### R1D22
 Turns out the little one is also suffering his first fever! Still managed to get in some code time and wrap up the initial functionality for my Digital Ocean firewall management CLI. Now some code clean up is in order... But first! (or maybe during) I'm going to play around with Chalk to see if I can work on the CLI's readability. 
 While I've been working on this and for the last 9 or so months, I've been thinking about picking up a front-end framework. I've been reading about Vue lately, and I think it sounds really cool, I'm just not sure how to make the decision on which one to put my effort into...
+
+### R1D23
+I didn't end up coding yesterday, so now i'm a day behind on my challenge. But I'm actually okay with it. My available time is already pretty limited and with the kiddo sick there is even less. He needs comfort from his dad and that's way more important. Another reason for not getting any code done is that I've been spending my free time trying to get my head around Vue. After an intro vid on Pluralsight and the Vue episode of SyntaxFM podcast, I think I'm really understanding the Vue Docs and I'm getting really excited to build something with it. 
+I know that technically the challenge rules say you gotta code everyday, which is why I didn't originally count yesterday. But I need to do this research before I'll be comfortable building anything. So since it's in the spirit of growing and building my skills, I'm going to count research heavy days.
