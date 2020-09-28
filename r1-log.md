@@ -99,4 +99,7 @@ I didn't end up coding yesterday, so now i'm a day behind on my challenge. But I
 I know that technically the challenge rules say you gotta code everyday, which is why I didn't originally count yesterday. But I need to do this research before I'll be comfortable building anything. So since it's in the spirit of growing and building my skills, I'm going to count research heavy days.
 
 ### R1D24
-Did some katas on Codewars and spent time reading more of the Vue Docs. 
+Did some katas on Codewars and spent time reading more of the Vue Docs.
+
+### R1D25
+Trained on some more Codewars katas today, but my focus is still on the Vue docs. I'm almost done with the "essentials" guide. Thankfully their docs are pretty easy to read on mobile otherwise I wouldn't have made nearly as much progress. As of right now I think the over all use of Vue makes sense, but I'm still not sure how one actually servers up the web app...
