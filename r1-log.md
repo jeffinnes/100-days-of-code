@@ -103,3 +103,6 @@ Did some katas on Codewars and spent time reading more of the Vue Docs.
 
 ### R1D25
 Trained on some more Codewars katas today, but my focus is still on the Vue docs. I'm almost done with the "essentials" guide. Thankfully their docs are pretty easy to read on mobile otherwise I wouldn't have made nearly as much progress. As of right now I think the over all use of Vue makes sense, but I'm still not sure how one actually servers up the web app...
+
+### R1D26
+After-hours work took up some of my dev time this evening, but I did finish reading the "essentials" section in the Vue docs. Now I need to brainstorm some projcts to build...
