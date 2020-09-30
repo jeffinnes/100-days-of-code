@@ -106,3 +106,6 @@ Trained on some more Codewars katas today, but my focus is still on the Vue docs
 
 ### R1D26
 After-hours work took up some of my dev time this evening, but I did finish reading the "essentials" section in the Vue docs. Now I need to brainstorm some projcts to build...
+
+### R1D27
+Started the "Vue: Getting Started" course on Pluralsight today. Between that, the Essentials section of the Vue docs, and the Vue episode of the SyntaxFM podcast, I really think I'm starting to understand how to work with Vue. I'm just not quite sure how one typically serves up the web app once it is built... Still early in the Pluarlsight course so hopefully I'll understand that by the end.
