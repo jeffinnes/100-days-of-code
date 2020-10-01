@@ -15,8 +15,9 @@ The log of my #100DaysOfCode challenge. Started on August 2nd, 2020.
 - Make personal site Mobile friendly :white_check_mark:
 - Make the blog on my personal site actually readable  :white_check_mark:
 - Finish the prorated cost calculator app I started so, so long ago... :white_check_mark:
-- Build a CLI to manage my Digital Ocean firewall settings (to start)
+- Build a CLI to manage my Digital Ocean firewall settings (to start) :white_check_mark:
 - Crowdsourced advice rating app
+- Personal twist on the Hex Color Clock
 - Build super secret project (not ready to reveal this idea yet)
 - Participate in [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
 - Build something in [Rockstar](https://codewithrockstar.com/)
@@ -109,3 +110,6 @@ After-hours work took up some of my dev time this evening, but I did finish read
 
 ### R1D27
 Started the "Vue: Getting Started" course on Pluralsight today. Between that, the Essentials section of the Vue docs, and the Vue episode of the SyntaxFM podcast, I really think I'm starting to understand how to work with Vue. I'm just not quite sure how one typically serves up the web app once it is built... Still early in the Pluarlsight course so hopefully I'll understand that by the end.
+
+### R1D28
+Still working my way through the Pluralsight course on Vue. I did some research on how to serve the Vue app and as I understand it, you just do the same thing you would for a static site. I'm not to sure how that would work if you wanted to integrate it into a dynamic Express app or something. I'll get there.
