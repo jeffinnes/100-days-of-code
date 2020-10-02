@@ -113,3 +113,6 @@ Started the "Vue: Getting Started" course on Pluralsight today. Between that, th
 
 ### R1D28
 Still working my way through the Pluralsight course on Vue. I did some research on how to serve the Vue app and as I understand it, you just do the same thing you would for a static site. I'm not to sure how that would work if you wanted to integrate it into a dynamic Express app or something. I'll get there.
+
+### R1D29
+Still working through the Pluralsight course. I got the sections on component communication and data fetching knocked out. I'm itching to build something so I I think I'm going to take a break from the learning materials and get started on the Color Clock tomorrow!
