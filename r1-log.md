@@ -116,3 +116,9 @@ Still working my way through the Pluralsight course on Vue. I did some research 
 
 ### R1D29
 Still working through the Pluralsight course. I got the sections on component communication and data fetching knocked out. I'm itching to build something so I I think I'm going to take a break from the learning materials and get started on the Color Clock tomorrow!
+
+### R1D30
+For day 30 I decided it was time to take the plunge into Vue and start building the Color Clock. Made my first component that updates the displayed hex color code and background every second. Still needs lots of styling and the twist on the idea I have planned, but... First step!
+
+### R1D31
+More work on the calendar, Trying to figure out styling now that all the planned elements are in place.
