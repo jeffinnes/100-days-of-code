@@ -122,3 +122,6 @@ For day 30 I decided it was time to take the plunge into Vue and start building 
 
 ### R1D31
 More work on the calendar, Trying to figure out styling now that all the planned elements are in place.
+
+### R1D32
+Creating the base clock in Vue was stageringly easy so I'm glad I planned a little be more into this project. For context, the "twist" mentioned in my _planned projects_ list above was to add a color picker that the user could use to select a new base color code (the default being #000000). I am also planning on displaying a preview of the days colors based on the color selected. While working on the styling today, I found out that the color picker ```<input>``` type is implemented in drastically different ways across browsers. So instead of a color picker, I switched it out for 6 buttons of a pre-choosen colors.
