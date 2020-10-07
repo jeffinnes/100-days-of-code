@@ -125,3 +125,10 @@ More work on the calendar, Trying to figure out styling now that all the planned
 
 ### R1D32
 Creating the base clock in Vue was stageringly easy so I'm glad I planned a little be more into this project. For context, the "twist" mentioned in my _planned projects_ list above was to add a color picker that the user could use to select a new base color code (the default being #000000). I am also planning on displaying a preview of the days colors based on the color selected. While working on the styling today, I found out that the color picker ```<input>``` type is implemented in drastically different ways across browsers. So instead of a color picker, I switched it out for 6 buttons of a pre-choosen colors.
+
+### R1D33
+Devised a method that splits the provided color code (hard coded for now) into it's component parts for color calculation. For the calculation itself I needed to figure out how to do base16 math in JS. Since I am using 6 pre-defined color codes, I will use A6 as the base color value. This will ensure that no segment will end up higher than FF (A6 + 59 = FF). I realize it's kinda cheating because now I don't have to deal with situations where the user picks a color that pushes the Hex code out of range but... So?
+
+### R1D34
+Figured out how to pass the color selection from the user input child component up to the parent app component by emitting an event with a value. Then I can pass this value back down to the clock child component as a prop. Pretty cool stuff!
+I've been thinking about how I would deploy/host this app when it's done and as chance would have it, Digital Ocean launched an App platform (I think today). I just had to point it at the repo for the project and it took care of building and hosting the app. I just needed to make a DNS entry for it and It's visible to the world. Crazy cool timing!
