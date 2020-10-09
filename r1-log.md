@@ -132,3 +132,6 @@ Devised a method that splits the provided color code (hard coded for now) into i
 ### R1D34
 Figured out how to pass the color selection from the user input child component up to the parent app component by emitting an event with a value. Then I can pass this value back down to the clock child component as a prop. Pretty cool stuff!
 I've been thinking about how I would deploy/host this app when it's done and as chance would have it, Digital Ocean launched an App platform (I think today). I just had to point it at the repo for the project and it took care of building and hosting the app. I just needed to make a DNS entry for it and It's visible to the world. Crazy cool timing!
+
+## R1D35
+Wrapped up the Color Clock today by adding in logic to calculate the color ratio between the current time's background color and the lighter text color. If the ratio isn't high enough it switched the clocks text to black. This article on Dev.to (https://dev.to/alvaromontoro/building-your-own-color-contrast-checker-4j7o) was a huge help in making sense of how color contrast is calculated. Posted this and the previous CLI project on my portfolio site and now I'm going to go be brave and post about them on social media...
