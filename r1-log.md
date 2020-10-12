@@ -135,3 +135,6 @@ I've been thinking about how I would deploy/host this app when it's done and as 
 
 ## R1D35
 Wrapped up the Color Clock today by adding in logic to calculate the color ratio between the current time's background color and the lighter text color. If the ratio isn't high enough it switched the clocks text to black. This article on Dev.to (https://dev.to/alvaromontoro/building-your-own-color-contrast-checker-4j7o) was a huge help in making sense of how color contrast is calculated. Posted this and the previous CLI project on my portfolio site and now I'm going to go be brave and post about them on social media...
+
+## R1D36
+I'm still mulling over the next project idea in my head, so for the time being, I did some coding challeneges on Codewars and worked on my Express app template.
