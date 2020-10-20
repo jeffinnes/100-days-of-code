@@ -144,3 +144,6 @@ I didn't do much coding the last two days, but instead spent my time trying to f
 
 ## R1D38
 Took the family camping for a few days so I took a break from the challenge but I'm back at it! Today I spent some time setting up the foundation of the Express.js version of the "Is This Wise" app; and in doing so realized someways I could improve my ever evolving express app template.
+
+## R1D39
+Linted express template and started building the landing page of the ITW? app
